@@ -2,6 +2,8 @@
 
 A platform where you can buy music projects. I was exploring nextjs and made this as a practice project. Component library: used is Aceternity UI.
 
+![MusicApp Image](/public/ReadmeImg.png "Hero Section")
+
 ## Getting Started
 
 First, run the development server:
